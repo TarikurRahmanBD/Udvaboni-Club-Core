@@ -7,12 +7,12 @@
 ## 🔗 Live Application & Official Links
 *   🚀 **Live Web App:** **[ubcb-core.onrender.com](https://ubcb-core.onrender.com)** *(Explore the registry in action!)*
 *   📡 **Official Club Website:** **[udvabonibd.com](https://udvabonibd.com)**
-*   👨‍💻 **Lead Developer Portfolio:** 🌐 **[yourtarikur.netlify.app](https://yourtarikur.netlify.netlify.app)**
+*   👨‍💻 **Lead Developer Portfolio:** 🌐 **[yourtarikur.vercel.app](https://yourtarikur.vercel.app)**
 
 ---
 
 ## 👨‍💻 Developed & Maintained By
-*   **Lead Architect & Developer:** **[Tarikur Rahman](https://yourtarikur.netlify.app)** *(Club Secretary, UBCB)*
+*   **Lead Architect & Developer:** **[Tarikur Rahman](https://yourtarikur.vercel.app)** *(Club Secretary, UBCB)*
 *   **GitHub Profile:** [@tarikurrahmanbd](https://github.com/tarikurrahmanbd)
 
 ---
@@ -53,3 +53,4 @@ The core registry dynamically handles and showcases the leadership profiles of *
 ├── club.db                # SQLite Database storing member and event details
 ├── requirements.txt       # Project dependencies (Flask, Gunicorn, etc.)
 └── README.md              # Project documentation
+```
